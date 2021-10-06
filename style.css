@@ -5,11 +5,11 @@
 }
 
 .container {
-    background-color: rgb(55, 148, 202);
+    background-color: rgb(152, 206, 236);
 }
 
 .background {
-    background-color: #b2f4f7;
+    background-color: #c3cccf;
     height: 100vh;
     padding-top: 1px;
     height: auto;
@@ -71,15 +71,15 @@
 }
 
 .controls button {
-    color: rgb(173, 28, 28);
+    color: rgb(237, 241, 245);
     padding: 8px;
     border-radius: 8px;
-    border: none;
+    border: 2px solid black;
     font-size: 20px;
     margin-left: 1em;
     cursor: pointer;
 }
 
 #reset {
-    background-color: #aef30e;
+    background-color: #9b1706;
 }
