@@ -2,7 +2,7 @@
 
 This is Tic Tac Toe game.
 There are two player participate on this game and try to match their symbol in
-vertically or horizontally or digonally sequenceplayer.Which person sequence match win the game.  
+vertically or horizontally or digonally sequence.Which person sequence match win the game.  
 
 
 
