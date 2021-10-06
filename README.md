@@ -1,5 +1,4 @@
-
-# Portfolio
+## Tic Tac Toe
 
 This is Tic Tac Toe game.
 There are two player participate on this game and try to match their symbol in
