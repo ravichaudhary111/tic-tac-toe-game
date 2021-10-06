@@ -34,5 +34,5 @@ JavaScript
 
   
 ## 🔗 Links
-[Github Profile](https://github.com/ravichaudhary111)r
+[Github Profile](https://github.com/ravichaudhary111)
 
